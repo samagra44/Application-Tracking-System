@@ -62,6 +62,9 @@ Welcome to our Applicant Tracking System (ATS) Resume Web Application! This appl
 - [Streamlit](https://streamlit.io/)
 - [Google LLM: Gemini API](https://makersuite.google.com)
 
+## Output
+![Smart Application Tracking System 📝 - Brave 2024-02-19 22-58-29](https://github.com/samagra44/Application-Tracking-System/assets/77968722/8ae07895-02a3-425f-9e8e-e0d6eea9a020)
+
 ## Feedback and Contributions
 
 We welcome your feedback and contributions! Feel free to open issues, submit pull requests, or reach out to us with any suggestions or improvements.
