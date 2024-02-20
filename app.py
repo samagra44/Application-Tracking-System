@@ -54,6 +54,9 @@ st.text("Improve Your Resume and get a high paying job.")
 jd=st.text_area("Paste your job description here")
 uploaded_file=st.file_uploader("Upload Your Resume",type="pdf",help="Please upload the pdf file")
 
+if uploaded_file is not None:
+    st.write("PDF Uploaded Successfully")
+
 submit = st.button("Submit")
 
 if submit:
