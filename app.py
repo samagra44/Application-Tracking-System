@@ -37,16 +37,7 @@ Give personalized feedback to applicants, highlighting specific areas for improv
 also provide personalized job recommendations based on the user's skills, experience, and preferences. This can enhance the user experience by helping them discover relevant job opportunities.
 Provide insights into the skills users have versus the skills typically required for their target roles. Suggest relevant training or learning opportunities to bridge any gaps.
 
-I want the response having the structure:
-{{
-"JD Match:",
-"Missing Keywords":
-"Profile Summary:",
-"Skills:",
-"Feedback:",
-"Skills Gap Analysis:":,
-"Customized Job Recommendations:"
-}}"""
+"""
 
 
 st.title("Smart Application Tracking System 📝")
